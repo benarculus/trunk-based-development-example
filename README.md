@@ -1,4 +1,4 @@
-# An example for trunk-based development on GitHub
+# An example of trunk-based development on GitHub
 
 The purpose for this repo is to show an example of how to do trunk-based development on GitHub, and how continuous integration and continuous delivery or deployment works in this model. 
 
