@@ -1,0 +1,11 @@
+# Default owner for every file in the repo.
+*       @benarculus
+
+# Owner for any file in the '/.github' directory
+.github/ @benarculus
+
+# Owner for any file in the '/infra' directory
+infra/ @benarculus
+
+# Owner for any file in the '/src' directory
+src/ @benarculus
