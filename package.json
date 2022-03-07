@@ -1,0 +1,19 @@
+{
+  "name": "trunk-based-development-example",
+  "version": "0.0.1",
+  "description": "An example for TDB in GitHub.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benarculus/trunk-based-development-example.git"
+  },
+  "author": "@benarculus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benarculus/trunk-based-development-example/issues"
+  },
+  "homepage": "https://github.com/benarculus/trunk-based-development-example#readme"
+}
