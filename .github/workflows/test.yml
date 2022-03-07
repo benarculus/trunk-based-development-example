@@ -1,0 +1,11 @@
+name: Set Environment
+on: 
+  push:
+    branches:
+      - main
+jobs:
+  Set-Environment:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+        echo ${{ github.environment }}
